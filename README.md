@@ -1,18 +1,28 @@
-                                    ## Elephant-Care: Wearable IoT-Enabled Belt for Elephant Protection & Emergency Identification
+  ## Elephant-Care: Wearable IoT-Enabled Belt for Elephant Protection & Emergency Identification (Group ID: 24-25J-012)
 
-<p>Welcome to the Kani Clothing Store web page project! This project is a simple and elegant showcase of my skills in front-end web development, utilizing HTML, CSS, and JavaScript.</p>
+<p>Elephants, vital keystone species in maintaining ecological balance, are facing severe threats, particularly from human activities like train collisions. In India alone, around 150 elephants lose their lives annually due to such accidents, creating a pressing need for intervention. The Elephant-Care project aims to develop an innovative wearable IoT-enabled belt system to protect elephants and prevent such collisions..</p>
+<p>This multidisciplinary project integrates IoT technology, machine learning algorithms, real-time data collection, and user interfaces to monitor elephant movements and predict potential collision hotspots. By combining biometric data analysis and advanced detection systems, Elephant-Care offers timely alerts to authorities, promoting safety for both elephants and humans.</p>
+<p>The system can even detect specific behaviors such as distinguishing between an elephant lying down or walking, allowing for more tailored and accurate interventions.</p>
 
-## Features
+## Research Objective
 
-- Responsive Design: Ensures an optimal viewing experience across various devices.
-- Modern UI: Clean and stylish user interface for an enjoyable browsing experience.
-- Interactive Elements: Leveraging JavaScript to add dynamic features and enhance user engagement.
+<p>The goal of Elephant-Care is to leverage IoT and machine learning technologies to reduce elephant collisions with trains, safeguard human lives, and contribute to elephant conservation efforts. The project includes the following key components:</p>
 
-## Technologies Used
+- Data Transmission System: Collect and transmit real-time elephant movement data.
+- Biometric Data Analysis & Real-Time Alerting System: Analyze biometric data for behavioral insights and send alerts to relevant authorities.
+- Reduction of Buffering Time & Emergency Identification: Optimize communication systems for faster data transmission and emergency response identification.
 
-1. HTML: Structuring the content of the web page.
-2. CSS: Styling and layout design for a polished appearance.
-3. JavaScript: Adding functionality and interactivity.
+## Group Members
+
+1. Perera B.A.D.K.S – IT21202254
+2. De Silva L.M.C – IT21301704
+
+## Project Components
+
+1. Data Transmission System
+2. Biometric Data Analysis & Real-Time Alerting System
+3. Reduction of Buffering Time & Emergency Identification
+   
    
 
 
