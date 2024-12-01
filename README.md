@@ -23,7 +23,13 @@
 2. Biometric Data Analysis & Real-Time Alerting System
 3. Reduction of Buffering Time & Emergency Identification
    
-   
+## Research Objective
+
+- Wearable IoT Belt: Embedded with sensors that track the elephant's movement and health metrics.
+- Real-Time Data Transmission: The data from the wearable device is continuously transmitted to a cloud-based system.
+- Biometric Data Analysis: Data is analyzed using machine learning algorithms to detect specific elephant behaviors and predict potential collision zones.
+- Alerting System: Alerts are sent to authorities or relevant bodies when potential risks are identified.
+- Emergency Identification: In case of any emergency or behavioral anomaly, a real-time emergency alert is generated for immediate action.
 
 
 Thank you for visiting My repository!
