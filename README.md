@@ -1,27 +1,26 @@
-  ## Elephant-Care: Wearable IoT-Enabled Belt for Elephant Protection & Emergency Identification (Group ID: 24-25J-012)
 
-<p>Elephants, vital keystone species in maintaining ecological balance, are facing severe threats, particularly from human activities like train collisions. In India alone, around 150 elephants lose their lives annually due to such accidents, creating a pressing need for intervention. The Elephant-Care project aims to develop an innovative wearable IoT-enabled belt system to protect elephants and prevent such collisions..</p>
-<p>This multidisciplinary project integrates IoT technology, machine learning algorithms, real-time data collection, and user interfaces to monitor elephant movements and predict potential collision hotspots. By combining biometric data analysis and advanced detection systems, Elephant-Care offers timely alerts to authorities, promoting safety for both elephants and humans.</p>
-<p>The system can even detect specific behaviors such as distinguishing between an elephant lying down or walking, allowing for more tailored and accurate interventions.</p>
+  ## Biometric Data Analysis & Real-Time Alerting System (Perera B.A.D.K.S)
 
-## Research Objective
+<p>The Biometric Data Analysis & Real-Time Alerting System is a core component of the Elephant-Care project, designed to monitor and analyze the health of elephants in real-time using IoT technology. The system provides a seamless and proactive approach to elephant health management by combining IoT data collection, real-time data analysis, and alerting mechanisms. The main functions of this system include:</p>
 
-<p>The goal of Elephant-Care is to leverage IoT and machine learning technologies to reduce elephant collisions with trains, safeguard human lives, and contribute to elephant conservation efforts. The project includes the following key components:</p>
+1. Data Collection: The system begins with IoT devices that collect vital animal health data, such as heart rate, body temperature, and activity levels. These devices are worn by the elephants and continuously gather health metrics, ensuring constant monitoring.
+2. API Gateway for Data Validation: The collected data is sent to an API Gateway for validation. The API Gateway ensures that the data is authentic and conforms to the correct format before routing it to the system's backend.
+3. Data Filtering: To improve data quality, the system filters out duplicates and noise, ensuring that only high-quality, relevant data is analyzed. This filtering process helps in making more reliable predictions and minimizing potential errors.
+4. Real-Time Data Analysis: The refined data undergoes analysis using advanced algorithms. These algorithms identify patterns, trends, and anomalies in the elephant's health data, such as abnormal heart rates or changes in activity levels. By recognizing these patterns, the system can predict future health conditions and potential risks.
+5. Real-Time Alerts: Based on the analysis, the system generates real-time alerts for caretakers or veterinarians. These alerts are designed to notify relevant authorities when the elephant's health status requires attention, enabling timely intervention and reducing the risk of emergencies.
+6. Live Analysis Dashboard: The system provides an intuitive Live Analysis Dashboard, where caretakers or veterinarians can interact with the data. The dashboard displays the elephant's current health status, historical health trends, and proactive recommendations for further care. This feature enhances user interaction and supports informed decision-making.
 
-- Data Transmission System: Collect and transmit real-time elephant movement data.
-- Biometric Data Analysis & Real-Time Alerting System: Analyze biometric data for behavioral insights and send alerts to relevant authorities.
-- Reduction of Buffering Time & Emergency Identification: Optimize communication systems for faster data transmission and emergency response identification.
 
-## Group Members
+## Key Features:
+
+- Real-Time Monitoring: Continuous tracking of elephant health metrics (heart rate, temperature, activity levels).
+- Predictive Analytics: Uses advanced algorithms to predict potential health issues before they occur.
+- Proactive Alerts: Sends immediate alerts to caretakers or veterinarians for urgent attention.
+- Security: Protects sensitive data through continuous security monitoring.
+
+## Name
 
 1. Perera B.A.D.K.S – IT21202254
-2. De Silva L.M.C – IT21301704
-
-## Project Components
-
-1. Data Transmission System
-2. Biometric Data Analysis & Real-Time Alerting System
-3. Reduction of Buffering Time & Emergency Identification
    
 ## Research Objective
 
