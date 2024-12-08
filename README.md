@@ -69,6 +69,11 @@ suitable for rural and remote areas with weak network signals, ensuring comprehe
 and uninterrupted data flow.</p>
 
 
+## System Diagram
+![image](https://github.com/user-attachments/assets/68c7288d-7423-4068-9939-8e05ab0d3fe4)
+
+
+
 
 
 
