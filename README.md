@@ -24,7 +24,7 @@ challenge, significantly reducing the incidence of collisions and supporting bot
 conservation and human safety efforts.</p>
 
 
- **Overall System Diagram**
+ ##**Overall System Diagram**
  
 ![Description of Image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/6c745472fd6fa836f4bc3a99467433350bac3ab9/Screenshot%202024-12-08%20183910.png?raw=true)
 
