@@ -73,7 +73,7 @@ and uninterrupted data flow.</p>
 ![image](https://github.com/user-attachments/assets/68c7288d-7423-4068-9939-8e05ab0d3fe4)
 
 
-## 2) Biometric Data Analysis & Real-Time Alerting System..
+## 2) Biometric Data Analysis & Real-Time Alerting System.
 
   🐘 Overview
 
@@ -96,6 +96,29 @@ robust security measures.</p>
 ## System Diagram
 ![image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/main/kanishka%20new.drawio.png?raw=true)
 
+
+
+
+## 3) Track the Elephant Behavior And Emergency Responds.
+
+  🐘 Overview
+
+  <p>The biodata BPI and also all the raw data stored in the sensor’s database, which was captured 
+from the elephant's care belt, Next, we use raw data processed into meaningful data and get 
+output as information that stores in another database. By using that database, we can identify 
+emergency situations using the information database, and the system will send notifications 
+under the relevant elephant’s ID in the system. By using that information, we will be able to 
+identify situations or anything that happens to elephants. We can identify those situations by 
+receiving notification under the relevant elephant’s ID in the system. In my component, all the 
+elephant’s data show as live charts and identify emergency situations. In an emergency 
+situation, when identifying the data, there can be a delay in getting the data; hence, we can’t 
+identify if anything happens to the elephant.  We can reduce data repetitions as a solution to 
+the above problem. It helps reduce buffering time and increase the efficiency of the 
+information.</p>
+
+
+## System Diagram
+![image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/main/kanishka%20new.drawio.png?raw=true)
 
 
 
