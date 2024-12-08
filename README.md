@@ -73,6 +73,31 @@ and uninterrupted data flow.</p>
 ![image](https://github.com/user-attachments/assets/68c7288d-7423-4068-9939-8e05ab0d3fe4)
 
 
+## 2) Biometric Data Analysis & Real-Time Alerting System..
+
+  🐘 Overview
+
+  <p>The system begins with IoT devices collecting vital animal health data, such as heart rate, 
+Body temperature, and Blood Oxeygen levels, and sending it to the API Gateway for validation. The API 
+Gateway ensures the data's authenticity and correct format before routing it to the Time-Series 
+Database for organized storage with precise timestamps. Post-storage, the data undergoes 
+filtering to remove duplicates and noise, enhancing its quality for analysis. Advanced 
+algorithms then analyze the refined data in real-time, identifying patterns and predicting future 
+health conditions. These predictions generate real-time alerts and proactive recommendations 
+for caretakers or veterinarians. User interaction is facilitated through a Live Analysis dashboard 
+that displays current health status, historical trends, and recommendations in an intuitive 
+format. Continuous security monitoring through Intrusion Detection Management safeguards 
+the system and sensitive data, ensuring reliable health monitoring. This integrated approach 
+provides a comprehensive and proactive solution for animal health management, delivering 
+accurate and actionable insights through real-time data collection, advanced analytics, and 
+robust security measures.</p>
+
+
+## System Diagram
+![image](https://github.com/user-attachments/assets/68c7288d-7423-4068-9939-8e05ab0d3fe4)
+
+
+
 
 
 
