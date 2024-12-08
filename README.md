@@ -118,7 +118,7 @@ information.</p>
 
 
 ## System Diagram
-![image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/main/kanishka%20new.drawio.png?raw=true)
+![image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/main/menura.png?raw=true)
 
 
 
