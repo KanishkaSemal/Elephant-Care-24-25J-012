@@ -31,17 +31,13 @@ conservation and human safety efforts.</p>
 
 
 
-## Key Features:
+## 🔍 Key Features:
 
-- Real-Time Monitoring: Continuous tracking of elephant health metrics (heart rate, temperature, activity levels).
-- Predictive Analytics: Uses advanced algorithms to predict potential health issues before they occur.
-- Proactive Alerts: Sends immediate alerts to caretakers or veterinarians for urgent attention.
-- Security: Protects sensitive data through continuous security monitoring.
+- Real-Time Monitoring: Tracks elephant movements and predicts collision risks.
+- Behavioral Insights: Differentiates behaviors such as lying down versus walking for tailored interventions.
+- User-Friendly Interface: Intuitive dashboards for authorities to make informed decisions.
+- Biometric Storage: Secure and accurate elephant data for long-term conservation..
 
-## Name
-
-1. Perera B.A.D.K.S – IT21202254
-   
 ## Research Objective
 
 - Wearable IoT Belt: Embedded with sensors that track the elephant's movement and health metrics.
@@ -49,5 +45,35 @@ conservation and human safety efforts.</p>
 - Biometric Data Analysis: Data is analyzed using machine learning algorithms to detect specific elephant behaviors and predict potential collision zones.
 - Alerting System: Alerts are sent to authorities or relevant bodies when potential risks are identified.
 - Emergency Identification: In case of any emergency or behavioral anomaly, a real-time emergency alert is generated for immediate action.
+
+## Group Members
+
+1. Perera B.A.D.K.S – IT21202254
+2. De Silva L.M.C - IT21301704
+
+
+## Our Components
+
+1. Data Transmission System.
+2. Biometric Data Analysis & Real-Time Alerting System.
+3. Track the Elephant Behavior And Emergency Responds.
+
+## 1) Data Transmission System.
+
+  🐘 Overview
+
+  <p>The Data Transmission System is a critical component designed to facilitate the reliable 
+and secure transfer of data collected from elephant body sensors to a remote receiver 
+using a Lorawan Teachnology. This module leverages Arduino technology to create a robust system 
+suitable for rural and remote areas with weak network signals, ensuring comprehensive 
+and uninterrupted data flow.</p>
+
+
+
+
+
+
+   
+
 
 
