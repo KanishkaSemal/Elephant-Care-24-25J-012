@@ -24,6 +24,11 @@ challenge, significantly reducing the incidence of collisions and supporting bot
 conservation and human safety efforts.</p>
 
 
+## Overall System Diagram
+
+
+
+
 ## Key Features:
 
 - Real-Time Monitoring: Continuous tracking of elephant health metrics (heart rate, temperature, activity levels).
