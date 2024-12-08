@@ -94,7 +94,7 @@ robust security measures.</p>
 
 
 ## System Diagram
-![image](https://github.com/user-attachments/assets/68c7288d-7423-4068-9939-8e05ab0d3fe4)
+![image](https://github.com/KanishkaSemal/Elephant-Care-24-25J-012/blob/main/kanishka%20new.drawio.png?raw=true)
 
 
 
