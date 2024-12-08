@@ -1,14 +1,27 @@
 
-  ## Biometric Data Analysis & Real-Time Alerting System (Perera B.A.D.K.S)
+  ## 🌍 Elephant-Care: Wearable IoT – Enabled Belt for Elephant protection & Emergency identification (24-25J-012)
 
-<p>The Biometric Data Analysis & Real-Time Alerting System is a core component of the Elephant-Care project, designed to monitor and analyze the health of elephants in real-time using IoT technology. The system provides a seamless and proactive approach to elephant health management by combining IoT data collection, real-time data analysis, and alerting mechanisms. The main functions of this system include:</p>
-
-1. Data Collection: The system begins with IoT devices that collect vital animal health data, such as heart rate, body temperature, and activity levels. These devices are worn by the elephants and continuously gather health metrics, ensuring constant monitoring.
-2. API Gateway for Data Validation: The collected data is sent to an API Gateway for validation. The API Gateway ensures that the data is authentic and conforms to the correct format before routing it to the system's backend.
-3. Data Filtering: To improve data quality, the system filters out duplicates and noise, ensuring that only high-quality, relevant data is analyzed. This filtering process helps in making more reliable predictions and minimizing potential errors.
-4. Real-Time Data Analysis: The refined data undergoes analysis using advanced algorithms. These algorithms identify patterns, trends, and anomalies in the elephant's health data, such as abnormal heart rates or changes in activity levels. By recognizing these patterns, the system can predict future health conditions and potential risks.
-5. Real-Time Alerts: Based on the analysis, the system generates real-time alerts for caretakers or veterinarians. These alerts are designed to notify relevant authorities when the elephant's health status requires attention, enabling timely intervention and reducing the risk of emergencies.
-6. Live Analysis Dashboard: The system provides an intuitive Live Analysis Dashboard, where caretakers or veterinarians can interact with the data. The dashboard displays the elephant's current health status, historical health trends, and proactive recommendations for further care. This feature enhances user interaction and supports informed decision-making.
+  
+  🐘 Overview
+  
+<p>Elephants are endangered and play a vital role in maintaining the balance of their ecosystems. 
+However, they frequently face significant threats from human activities, particularly collisions 
+with trains. In India alone, approximately 150 elephants are killed annually due to such accidents 
+(Gamage & Wijesundara, 2014).[1] These collisions not only diminish elephant populations but 
+also pose severe risks to human safety and result in substantial economic losses due to property 
+damage. To address this critical issue, implementing effective solutions like Elephant-Care is 
+essential. Elephant-Care aims to leverage IoT technology to create a safer environment for both 
+elephants and humans by preventing collisions through advanced detection, monitoring, and 
+alert systems. This innovative approach integrates data transmission systems, biometric storage, 
+data analysis, and an effective user interface to monitor elephant movements and predict 
+potential collision hotspots. By utilizing a combination of real-time data collection, machine 
+learning algorithms, and seamless communication networks, Elephant-Care can provide timely 
+alerts to authorities, enabling preventive measures and promoting coexistence. And our system 
+can detect detailed behavioral differences in elephants, such as distinguishing between lying 
+down and walking. This capability allows for more accurate monitoring and tailored interventions. 
+Overall, this multidisciplinary strategy offers a promising solution to a pressing conservation 
+challenge, significantly reducing the incidence of collisions and supporting both wildlife 
+conservation and human safety efforts.</p>
 
 
 ## Key Features:
@@ -30,13 +43,4 @@
 - Alerting System: Alerts are sent to authorities or relevant bodies when potential risks are identified.
 - Emergency Identification: In case of any emergency or behavioral anomaly, a real-time emergency alert is generated for immediate action.
 
-
-Thank you for visiting My repository!
-
-<h3 align="left">Ask anything:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kanishka-semal-976108240/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kanishka Semal" height="50" width="50" /></a>
-<a href="https://www.facebook.com/rox.kanishka.5?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishka semal" height="50" width="50" /></a>
-<a href="https://www.instagram.com/__don_kani__" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="__don_kani__" height="50" width="50" /></a>
-</p>
 
