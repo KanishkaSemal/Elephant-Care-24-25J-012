@@ -1,7 +1,8 @@
 
-  ## 🌍 Elephant-Care: Wearable IoT – Enabled Belt for Elephant protection & Emergency identification (24-25J-012)**
+  ## 🌍 Elephant-Care: Wearable IoT – Enabled Belt for Elephant protection & Emergency identification
 
-  
+   Group ID - 24-25J-012
+   
   🐘 Overview
   
 <p>Elephants are endangered and play a vital role in maintaining the balance of their ecosystems. 
